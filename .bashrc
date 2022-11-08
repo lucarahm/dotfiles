@@ -129,5 +129,3 @@ source "$OSH"/oh-my-bash.sh
 # alias ohmybash="mate ~/.oh-my-bash"
 
 
-#change default directory to Onedrive/Documents
-cd "/mnt/c/Documents and Settings/luca/OneDrive - uibk.ac.at/Dokumente"
